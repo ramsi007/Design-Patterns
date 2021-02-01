@@ -1,0 +1,24 @@
+C:\Users\Oujdi\Desktop\Design Pattern Avec Ryad\Creation\Singleton\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.exe
+C:\Users\Oujdi\Desktop\Design Pattern Avec Ryad\Creation\Singleton\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.csprojAssemblyReference.cache
+C:\Users\Oujdi\Desktop\Design Pattern Avec Ryad\Creation\Singleton\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.AssemblyInfoInputs.cache
+C:\Users\Oujdi\Desktop\Design Pattern Avec Ryad\Creation\Singleton\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.AssemblyInfo.cs
+C:\Users\Oujdi\Desktop\Design Pattern Avec Ryad\Creation\Singleton\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.deps.json
+C:\Users\Oujdi\Desktop\Design Pattern Avec Ryad\Creation\Singleton\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.runtimeconfig.json
+C:\Users\Oujdi\Desktop\Design Pattern Avec Ryad\Creation\Singleton\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.runtimeconfig.dev.json
+C:\Users\Oujdi\Desktop\Design Pattern Avec Ryad\Creation\Singleton\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.dll
+C:\Users\Oujdi\Desktop\Design Pattern Avec Ryad\Creation\Singleton\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.pdb
+C:\Users\Oujdi\Desktop\Design Pattern Avec Ryad\Creation\Singleton\DesignPatterns\bin\Debug\netcoreapp3.1\Savage.Data.MySqlClient.dll
+C:\Users\Oujdi\Desktop\Design Pattern Avec Ryad\Creation\Singleton\DesignPatterns\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\Oujdi\Desktop\Design Pattern Avec Ryad\Creation\Singleton\DesignPatterns\bin\Debug\netcoreapp3.1\OptimizedDataReader.dll
+C:\Users\Oujdi\Desktop\Design Pattern Avec Ryad\Creation\Singleton\DesignPatterns\bin\Debug\netcoreapp3.1\Savage.Data.dll
+C:\Users\Oujdi\Desktop\Design Pattern Avec Ryad\Creation\Singleton\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.csproj.CoreCompileInputs.cache
+C:\Users\Oujdi\Desktop\Design Pattern Avec Ryad\Creation\Singleton\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.csproj.CopyComplete
+C:\Users\Oujdi\Desktop\Design Pattern Avec Ryad\Creation\Singleton\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.dll
+C:\Users\Oujdi\Desktop\Design Pattern Avec Ryad\Creation\Singleton\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.pdb
+C:\Users\Oujdi\Desktop\Design Pattern Avec Ryad\Creation\Singleton\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.genruntimeconfig.cache
+C:\Users\Oujdi\Desktop\Projet C#\Design Pattern\Design Pattern Avec Ryad\Creation\Singleton\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.csprojAssemblyReference.cache
+C:\Users\Oujdi\Desktop\Projet C#\Design Pattern\Design Pattern Avec Ryad\Creation\Singleton\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.AssemblyInfoInputs.cache
+C:\Users\Oujdi\Desktop\Projet C#\Design Pattern\Design Pattern Avec Ryad\Creation\Singleton\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.AssemblyInfo.cs
+C:\Users\Oujdi\Desktop\Projet C#\Design Pattern\Design Pattern Avec Ryad\Creation\Singleton\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.csproj.CoreCompileInputs.cache
+C:\Users\Oujdi\Desktop\Projet C#\Design Pattern\Design Pattern Avec Ryad\Creation\Singleton\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.dll
+C:\Users\Oujdi\Desktop\Projet C#\Design Pattern\Design Pattern Avec Ryad\Creation\Singleton\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.pdb
